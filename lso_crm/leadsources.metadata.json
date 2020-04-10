@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lso_crm.leadsources"},{"v":2,"key":{"code":1},"name":"code_1","ns":"lso_crm.leadsources","background":true}],"uuid":"692da482d4224f9dbd925a78fff5343a"}
